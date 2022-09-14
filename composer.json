@@ -1,0 +1,10 @@
+{
+  "name": "dengoose/labanastya",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Lib\\": "lib",
+      "App\\": "app"
+    }
+  }
+}
